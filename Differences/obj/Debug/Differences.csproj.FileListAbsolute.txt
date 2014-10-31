@@ -1,0 +1,6 @@
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\bin\Debug\Differences.exe.config
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\obj\Debug\Differences.csprojResolveAssemblyReference.cache
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\bin\Debug\Differences.exe
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\bin\Debug\Differences.pdb
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\obj\Debug\Differences.exe
+c:\users\mashtheweb\documents\visual studio 2013\Projects\Differences\Differences\obj\Debug\Differences.pdb
